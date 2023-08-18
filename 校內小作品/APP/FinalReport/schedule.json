@@ -1,0 +1,27 @@
+{
+  "schedule": [
+    {
+      "Date": {
+        "startDate": "",
+        "endDate": ""
+      },
+      "SList": [
+        {
+          "id": "",
+          "location": "",
+          "day": ""
+        },
+        {
+          "id": "",
+          "location": "",
+          "day": ""
+        },
+        {
+          "id": "",
+          "location": "",
+          "day": ""
+        }
+      ]
+    }
+  ]
+}

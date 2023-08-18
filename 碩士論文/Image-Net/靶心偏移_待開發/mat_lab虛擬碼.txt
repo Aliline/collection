@@ -1,0 +1,20 @@
+new_word_vec = vector_{classes}_ver2.txt #word2vec的輸出
+YPredicted = kears模型的直接輸出
+ for i=1:Validation_data_num    % 每一次疊代時，使用所有的驗證資料來調整new_word_vec，以提升top1 accuracy
+    a = YPredicted(i,:);         % 是第i各validation資料的預測結果
+    b = ones(1,1000);            % 建立1000*word_vec_dim的矩陣，每一行都是第i各validation資料的預測結果
+    predict_Y_result =  single(b'*a); 
+    dist = predict_Y_result - new_word_vec;  %計算預測結果與1000各類別的詞潛入向量的距離
+    dist_r2 = dist.^2;
+    distance = sum(dist_r2')';    %a = [1 1 1 1;2 2 2 2;3 3 3 3]   sum(a')'=[4;8;12]
+    [res,id] = sort(distance);            %把預測結果與1000各類別的詞潛入向量的距離排序  a = [1; 6; 2; 4; 3; 8] [b, i] =sort(a); i = [ 1;  3;  5;  4;  2;  6]
+    if Validation_data_label(i) == id(1)      %top1_acc是正確，調整new_word_vec，往YPredicted(i,:)方向再移動
+      new_word_vec(id(1),:) = new_word_vec(id(1),:) + lr*(YPredicted(i,:) - new_word_vec(id(1),:));
+    else                                      %top1_acc不正確
+      ind = find(id ==Validation_data_label(i)); %找出正確類別是排序距離後的第幾位  ind代表正確類別是排序第ind個
+      new_word_vec(id(ind),:) = new_word_vec(id(ind),:) + wr*lr*(YPredicted(i,:) - new_word_vec(id(ind),:));  %分類錯誤，所以new_word_vec，往YPredicted(i,:)方向再移動程度增加(乘以wr)
+      for wrong_id = 1:ind-1                      %ind代表正確類別是排序第ind個，所以ind之前的類別都是錯誤分類
+        new_word_vec(id(wrong_id),:) = new_word_vec(id(wrong_id),:) + wr*lr*(i/ind)*(new_word_vec(id(wrong_id),:) - YPredicted(i,:)); %分類錯誤，所以new_word_vec，往YPredicted(i,:)的相反方向移動程度增加(乘以-1，乘以wr)
+      end
+    end
+  end

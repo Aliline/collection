@@ -1,0 +1,1427 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": 1,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "840台灣高雄市大樹區旗甲公路21號",
+        "name": "舊鐵橋天空步道",
+        "photo": "https://img.bunnyann.com/uploads/20190218222922_65.jpg",
+        "gmurl": "https://maps.google.com/?cid=586425428675585916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.66231,
+          120.426831
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "type": "Feature",
+      "properties": {
+        "website": "http://aircoffee.com.tw/",
+        "address": "812台灣高雄市小港區明聖街135巷10弄12號",
+        "name": "淨園農場",
+        "photo": "https://img.bunnyann.com/uploads/20200505104825_51.jpg",
+        "gmurl": "https://maps.google.com/?cid=4710128685513334380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.578995,
+          120.34442
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/fongyiacademy/",
+        "address": "830台灣高雄市鳳山區鳳明街62號",
+        "name": "鳳儀書院",
+        "photo": "https://fongyiacademy.khcc.gov.tw/PhotoData/44.jpg",
+        "gmurl": "https://maps.google.com/?cid=2026660577769424681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.627739,
+          120.359487
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.npac-weiwuying.org/",
+        "address": "830台灣高雄市鳳山區三多一路1號3F",
+        "name": "衛武營國家藝術文化中心",
+        "photo": "https://www.taiwan.net.tw/att/1/big_scenic_spots/pic_A12-00057_5.jpg",
+        "gmurl": "https://maps.google.com/?cid=10848120693947844668"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.623833,
+          120.34276
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/golden.vigor.kh/",
+        "address": "807台灣高雄市三民區同協路199號",
+        "name": "維格餅家黃金菠蘿城堡",
+        "photo": "https://pic.pimg.tw/yoyoman822/1541151101-3836643129.jpg",
+        "gmurl": "https://maps.google.com/?cid=390295678200029370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.648875,
+          120.29264
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "type": "Feature",
+      "properties": {
+        "website": "https://pier2.org/",
+        "address": "803台灣高雄市鹽埕區大勇路1號",
+        "name": "駁二藝術特區",
+        "photo": "https://khh.travel/image/19999/1024x768",
+        "gmurl": "https://maps.google.com/?cid=16633712883896045042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.61998,
+          120.281529
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.kw2.com.tw/",
+        "address": "804台灣高雄市鼓山區蓬萊路17號",
+        "name": "棧貳庫棧伍庫",
+        "photo": "https://img.tiffany0118.com/uploads/20190222023142_5.jpg",
+        "gmurl": "https://maps.google.com/?cid=12960286280338118535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.618988,
+          120.277097
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "806台灣高雄市前鎮區復興三路5號",
+        "name": "集盒KUBIC貨櫃園區",
+        "photo": "https://pic.pimg.tw/yao55/1490965402-1191003557.jpg?v=1491063398",
+        "gmurl": "https://maps.google.com/?cid=10286231781128424731"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.606369,
+          120.302991
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.boyaliving.com.tw/",
+        "address": "806台灣高雄市前鎮區成功二路4號六樓",
+        "name": "天台時空之城",
+        "photo": "https://pic.pimg.tw/nigi33kimo/1496496501-534013293.jpg",
+        "gmurl": "https://maps.google.com/?cid=2008321198312130895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.597908,
+          120.304611
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "type": "Feature",
+      "properties": {
+        "website": "http://britishconsulate.khcc.gov.tw/",
+        "address": "804台灣高雄市鼓山區蓮海路20號",
+        "name": "打狗英領事館",
+        "photo": "https://www.taiwan.net.tw/att/1/big_scenic_spots/pic_440_2.jpg",
+        "gmurl": "https://maps.google.com/?cid=3675027067925811485"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.618866,
+          120.266869
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.thsrc.com.tw/tw0x346e0571cfeac0d7:0x29fe170277256373/StationInfo/Prospect/f2519629-5973-4d08-913b-479cce78a356",
+        "address": "813台灣高雄市左營區高鐵路105號",
+        "name": "高雄台鐵車站",
+        "photo": "https://images.zi.org.tw/ihappyday/2018/10/19122922/1539923362-3ed6e047cd80af498583ed4b52e9c992.jpg",
+        "gmurl": "https://maps.google.com/?cid=3025881298995864435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.687441,
+          120.307397
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "type": "Feature",
+      "properties": {
+        "website": "http://kml.kcg.gov.tw/",
+        "address": "801台灣高雄市前金區中正四路261號",
+        "name": "勞工博物館",
+        "photo": "https://khh.travel/image/1570/1024x768",
+        "gmurl": "https://maps.google.com/?cid=4241487622791590537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.62713,
+          120.289884
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/WhiteLoverCafe/",
+        "address": "804台灣高雄市鼓山區柴山大路91-1號",
+        "name": "白色戀人咖啡館",
+        "photo": "https://pic.pimg.tw/lovecremebrulee/1585054263-1927455411.jpg",
+        "gmurl": "https://maps.google.com/?cid=3785496551949666883"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.644744,
+          120.252559
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/pg/love.gondola/services/",
+        "address": "801台灣高雄市前金區河東路168號",
+        "name": "貢多拉船體驗",
+        "photo": "https://image.kkday.com/v2/image/get/w_960%2Cc_fit%2Cq_55%2Ct_webp/s1.kkday.com/product_5996/20160129135702_GLvvW/jpg",
+        "gmurl": "https://maps.google.com/?cid=9373614021850754050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.623566,
+          120.290314
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.rosary.org.tw/",
+        "address": "801台灣高雄市苓雅區五福三路151號",
+        "name": "玫瑰聖母聖殿主教座堂",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Holy_Rosary_Cathedral%2C_Kaohsiung_2012.JPG",
+        "gmurl": "https://maps.google.com/?cid=12955581844476684303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.620324,
+          120.291619
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/GreatHarborBridge/",
+        "address": "803台灣高雄市鹽埕區駁二大義站",
+        "name": "高雄大港橋",
+        "photo": "https://tnimage.s3.hicloud.net.tw/photos/2020/07/06/1594038232-5f0317d8eab17.jpg",
+        "gmurl": "https://maps.google.com/?cid=17840352893166340879"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.617856,
+          120.283961
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "803台灣高雄市鹽埕區公園二路13-24號",
+        "name": "椅子樂譜",
+        "photo": "https://pic.pimg.tw/whuy123/1550189727-3238932812.jpg",
+        "gmurl": "https://maps.google.com/?cid=1688886666714366887"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.618052,
+          120.286405
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/%E9%B9%BD%E5%9F%95%E9%B4%A8%E8%82%89%E6%84%8F%E9%BA%B5-274706552540814/",
+        "address": "803台灣高雄市鹽埕區大智路126號",
+        "name": "鹽埕鴨肉意麵",
+        "photo": "https://i2.wp.com/img.rika.tw/uploads/20181003223957_60.jpg",
+        "gmurl": "https://maps.google.com/?cid=2787335933190309622"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.623053,
+          120.286478
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/7seven.colorful/",
+        "address": "803台灣高雄市鹽埕區新樂街75-2號",
+        "name": "七彩葫早餐",
+        "photo": "https://lh3.googleusercontent.com/icDckeWze-InAd22f3pU8V4ffeVH2nMGquza0PULHmzvKlWm1qKcdnh65SXXvlJ_PKhiStxMt09O-tYJgEa3LoScut2cZw=s600",
+        "gmurl": "https://maps.google.com/?cid=16192535835584313873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.622802,
+          120.287111
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/pages/%E9%98%BF%E7%BE%8E%E6%97%A9%E9%A4%90/178370352207464",
+        "address": "803台灣高雄市鹽埕區新樂街67號",
+        "name": "阿美漢堡",
+        "photo": "https://lh3.googleusercontent.com/C2tEz4Z0KI_iX672_JSRZIo28xvRv_e7VSB_6t52YPToVYOEmy-aqfZer24yo4dLnsL7udRbjQn2S_8PmFuf-11SDuzzH0M=s600",
+        "gmurl": "https://maps.google.com/?cid=3779288794664593340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.622651,
+          120.287301
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "type": "Feature",
+      "properties": {
+        "website": "https://spa-grand.business.site/?utm_source=gmb&utm_medium=referral",
+        "address": "844台灣高雄市六龜區寶來里",
+        "name": "寶來花賞溫泉公園",
+        "photo": "https://img.fullfenblog.tw/20181224194131_100.jpg",
+        "gmurl": "https://maps.google.com/?cid=8020267476732011994"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.107005,
+          120.702645
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "type": "Feature",
+      "properties": {
+        "website": "https://zh-tw.facebook.com/tsaihungshan/",
+        "address": "844台灣高雄市六龜區新開路27-1號",
+        "name": "彩虹山大佛六龜大佛",
+        "photo": "https://img.fullfenblog.tw/20181228183818_64.jpg",
+        "gmurl": "https://maps.google.com/?cid=202057850480318581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.055348,
+          120.676975
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "type": "Feature",
+      "properties": {
+        "website": "https://meeinonghakka.kcg.gov.tw/",
+        "address": "843台灣高雄市美濃區民族路49-3號",
+        "name": "美濃客家文物館",
+        "photo": "http://pic.pimg.tw/as660707/1371192297-4252825750.jpg",
+        "gmurl": "https://maps.google.com/?cid=12400556186026109014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.911075,
+          120.557548
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/%E6%9E%97%E5%AE%B6%E7%B2%84%E6%A2%9D%E5%BA%97-984688311553040/",
+        "address": "843台灣高雄市美濃區美興街25號",
+        "name": "美濃林家粄條總店",
+        "photo": "https://pic.pimg.tw/roadschen/1550753971-4036443856_wn.jpg",
+        "gmurl": "https://maps.google.com/?cid=18101515773418267490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.900143,
+          120.539413
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/kcsumbrella/",
+        "address": "843台灣高雄市美濃區民權路47號",
+        "name": "廣進勝紙傘工作室",
+        "photo": "http://pic.pimg.tw/phina66/1364476132-502736047.jpg",
+        "gmurl": "https://maps.google.com/?cid=15985615462291036990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.908152,
+          120.55079
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "843台灣高雄市美濃區美濃湖",
+        "name": "美濃湖",
+        "photo": "https://www.taiwan.net.tw/att/1/big_scenic_spots/pic_A12-00397.jpg",
+        "gmurl": "https://maps.google.com/?q=%E7%BE%8E%E6%BF%83%E6%B9%96&ftid=0x346e422087738e51:0x6768d416f894b0f0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.90806,
+          120.554533
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "type": "Feature",
+      "properties": {
+        "website": "http://kh.okgo.tw/shop/5681.html",
+        "address": "843台灣高雄市美濃區成功路142號",
+        "name": "美濃擂茶首創舖",
+        "photo": "https://b.share.photo.xuite.net/gas520/1b7e0a0/5435572/209237740_l.jpg",
+        "gmurl": "https://maps.google.com/?cid=14820167175652941555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.894306,
+          120.546932
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.meinung.com.tw/",
+        "address": "843台灣高雄市美濃區中興路一段147號",
+        "name": "原鄉緣紙傘文化村",
+        "photo": "https://picdn.gomaji.com/products/o/316/44316/44316_1.jpg",
+        "gmurl": "https://maps.google.com/?cid=619622156800941281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.882749,
+          120.546927
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "type": "Feature",
+      "properties": {
+        "website": "http://cishanstation.khcc.gov.tw/home01.aspx?ID=1",
+        "address": "842台灣高雄市旗山區中山路1號",
+        "name": "糖鐵故事館",
+        "photo": "https://pic.pimg.tw/ksdelicacy/1481394242-3632835295.jpg",
+        "gmurl": "https://maps.google.com/?cid=14611257220440720710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.884622,
+          120.481984
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "type": "Feature",
+      "properties": {
+        "website": "http://khh.travel/Article.aspx?a=6309&l=1",
+        "address": "842台灣高雄市旗山區中山路",
+        "name": "旗山老街",
+        "photo": "https://khh.travel/image/1242/1024x768",
+        "gmurl": "https://maps.google.com/?cid=4490849051540952470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.888069,
+          120.482037
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.i-mazu.org/",
+        "address": "842台灣高雄市旗山區永福街23巷16號",
+        "name": "旗山天后宮",
+        "photo": "http://www.i-mazu.org/wp-content/uploads/2016/07/DSC02245.jpg",
+        "gmurl": "https://maps.google.com/?cid=4210394981521786098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.886596,
+          120.482295
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.boyaliving.com.tw/",
+        "address": "806台灣高雄市前鎮區成功二路4號六樓",
+        "name": "高雄時空之城3D空中彩繪",
+        "photo": "https://pic.pimg.tw/nigi33kimo/1496496501-534013293.jpg",
+        "gmurl": "https://maps.google.com/?cid=2008321198312130895"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.597908,
+          120.304611
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.taisugar.com.tw/chinese/Attractions_detail.aspx?n=10048&s=2&p=0",
+        "address": "825台灣高雄市橋頭區糖廠路24號",
+        "name": "台灣糖業博物館",
+        "photo": "https://khh.travel/image/19967/1024x768",
+        "gmurl": "https://maps.google.com/?cid=7052847668860567963"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.755703,
+          120.314295
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "type": "Feature",
+      "properties": {
+        "website": "https://zh-tw.facebook.com/qwer6361108",
+        "address": "823台灣高雄市田寮區新興路2之7號",
+        "name": "田寮慈玄聖天宮石頭廟",
+        "photo": "https://farm1.staticflickr.com/923/41813176870_f61063afd7_b.jpg",
+        "gmurl": "https://maps.google.com/?cid=12060850460873007917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.835625,
+          120.386045
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.sanhetk.com.tw/",
+        "address": "840台灣高雄市大樹區竹寮路94號",
+        "name": "三和瓦窯",
+        "photo": "http://www.sanhetk.com.tw/about/image/pics/120160818131733.JPG",
+        "gmurl": "https://maps.google.com/?cid=278227686171996341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.663412,
+          120.427065
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "840台灣高雄市大樹區旗甲公路21號",
+        "name": "高屏溪舊鐵橋",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/%E4%B8%8B%E6%B7%A1%E6%B0%B4%E6%BA%AA%E9%90%B5%E6%A9%8B%EF%BC%88%E9%AB%98%E5%B1%8F%E6%BA%AA%E8%88%8A%E9%90%B5%E6%A9%8B%EF%BC%89.jpg",
+        "gmurl": "https://maps.google.com/?cid=586425428675585916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.66231,
+          120.426831
+        ]
+      }
+    },
+    {
+      "id": 37,
+      "type": "Feature",
+      "properties": {
+        "website": "http://khh.travel/Article.aspx?a=7520&l=1&stype=1057&sitem=4078",
+        "address": "805台灣高雄市旗津區旗津三路990號",
+        "name": "彩虹教堂",
+        "photo": "https://khh.travel/image/18495/1024x768",
+        "gmurl": "https://maps.google.com/?cid=9931083126879266633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.602329,
+          120.273452
+        ]
+      }
+    },
+    {
+      "id": 38,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "813台灣高雄市左營區蓮池潭",
+        "name": "蓮池潭",
+        "photo": "https://khh.travel/image/19849/1024x768",
+        "gmurl": "https://maps.google.com/?q=%E8%93%AE%E6%B1%A0%E6%BD%AD&ftid=0x346e059e2f57f019:0x627969fe1eec1f2c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.683332,
+          120.296699
+        ]
+      }
+    },
+    {
+      "id": 39,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "804台灣高雄市鼓山區忠義路32號",
+        "name": "高雄忠烈祠",
+        "photo": "http://im0071.com/wp-content/uploads/pixnet/1444467254-1843729990.jpg",
+        "gmurl": "https://maps.google.com/?cid=18441928268504355511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.626462,
+          120.273825
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "823台灣高雄市田寮區月球路34號",
+        "name": "月世界地景公園",
+        "photo": "https://travelimg.yam.com/DATA/ARTICLE/20150319111729396.jpg",
+        "gmurl": "https://maps.google.com/?cid=9454621359590657113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.886002,
+          120.388984
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "type": "Feature",
+      "properties": {
+        "website": "https://dengshan60lane.nsysu.edu.tw/",
+        "address": "804台灣高雄市鼓山區登山街60巷48-1號",
+        "name": "哈瑪星溜滑梯",
+        "photo": "https://hoolee.tw/wp-content/uploads/20181104165403_90.jpg",
+        "gmurl": "https://maps.google.com/?cid=8570353548030730134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.626398,
+          120.270235
+        ]
+      }
+    },
+    {
+      "id": 42,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "814台灣高雄市仁武區安樂一街169巷",
+        "name": "後安社區彩繪巷",
+        "photo": "https://img.i-kumakuma.com/f/farm1.static.flickr.com/726/32013836402_84208ff806_z.jpg",
+        "gmurl": "https://maps.google.com/?cid=5349387608863593321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.71403,
+          120.346264
+        ]
+      }
+    },
+    {
+      "id": 43,
+      "type": "Feature",
+      "properties": {
+        "website": "https://khh.travel/Article.aspx?a=6298&l=1",
+        "address": "807台灣高雄市三民區安寧街",
+        "name": "後驛商圈雨傘巷",
+        "photo": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/11/02/99/7018524.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=800&exp=3600&w=800",
+        "gmurl": "https://maps.google.com/?cid=9455331290315663631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.640743,
+          120.299335
+        ]
+      }
+    },
+    {
+      "id": 44,
+      "type": "Feature",
+      "properties": {
+        "website": "http://dadongcenter.khcc.gov.tw/",
+        "address": "83057台灣高雄市鳳山區光遠路161號",
+        "name": "大東文化藝術中心",
+        "photo": "https://khh.travel/image/20051/?r=1590130067501",
+        "gmurl": "https://maps.google.com/?cid=13267284591633816586"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.624969,
+          120.363489
+        ]
+      }
+    },
+    {
+      "id": 45,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "台灣高雄市愛河",
+        "name": "高雄愛河",
+        "photo": "https://i1.wp.com/farm6.staticflickr.com/5590/14270428627_3dca7acb42_c.jpg?quality=100&ssl=1",
+        "gmurl": "https://maps.google.com/?q=%E6%84%9B%E6%B2%B3&ftid=0x346e04fb21935ccd:0xf44e336c93ecbd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.652904,
+          120.305408
+        ]
+      }
+    },
+    {
+      "id": 46,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "830台灣高雄市鳳山區輜汽路281號",
+        "name": "衛武營都會公園",
+        "photo": "https://images.zi.org.tw/smile-eye/2019/05/21153935/1558453174-4886d909778e499f9a5a7d1cbae0f54a.jpg",
+        "gmurl": "https://maps.google.com/?cid=1720181692915974338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.619768,
+          120.339553
+        ]
+      }
+    },
+    {
+      "id": 47,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.fgsbmc.org.tw/",
+        "address": "84049台灣高雄市大樹區統嶺路1號",
+        "name": "佛光山佛陀紀念館",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/8/83/Fo_Guang_Shan_Buddha_Museum_%E4%BD%9B%E5%85%89%E5%B1%B1%E4%BD%9B%E9%99%80%E7%B4%80%E5%BF%B5%E9%A4%A8_.jpg",
+        "gmurl": "https://maps.google.com/?cid=12037088239667337532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.75562,
+          120.445249
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/%E7%B3%96%E9%BA%BB%E6%A0%97-1488165221408901/",
+        "address": "814台灣高雄市仁武區成功路60-5號",
+        "name": "糖麻栗",
+        "photo": "https://i1.wp.com/i17fun.com/wp-content/uploads/20190228223103_14.jpg?fit=1000%2C650&ssl=1",
+        "gmurl": "https://maps.google.com/?cid=269226185319125772"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.681016,
+          120.361316
+        ]
+      }
+    },
+    {
+      "id": 49,
+      "type": "Feature",
+      "properties": {
+        "website": "http://museum.flomo.com.tw/",
+        "address": "829台灣高雄市湖內區中山路二段42號",
+        "name": "富樂夢觀光工廠",
+        "photo": "https://pic.pimg.tw/gugugu4411/1452843146-3955192271.jpg",
+        "gmurl": "https://maps.google.com/?cid=1021594685101367743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.903397,
+          120.231316
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "type": "Feature",
+      "properties": {
+        "website": "https://khhskywalkpark.com/",
+        "address": "820台灣高雄市岡山區大莊路80巷",
+        "name": "崗山之眼",
+        "photo": "https://pic.pimg.tw/nigi33kimo/1518011850-1183245120.jpg",
+        "gmurl": "https://maps.google.com/?cid=2986038684619446781"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.811948,
+          120.334356
+        ]
+      }
+    },
+    {
+      "id": 51,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/succulentPS/",
+        "address": "831台灣高雄市大寮區新一街223號",
+        "name": "肉肉栽培研究所",
+        "photo": "https://i1.zi.org.tw/permio1/2020/02/01112129/1583032889-66654cb1afde41ed00066006cc4697f7.jpg",
+        "gmurl": "https://maps.google.com/?cid=17143961506125913227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.554227,
+          120.40958
+        ]
+      }
+    },
+    {
+      "id": 52,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.redbarn709.com/",
+        "address": "813台灣高雄市左營區民族一路709號",
+        "name": "紅頂穀創穀物文創樂園",
+        "photo": "https://awsimage4.banner.tw/store21/upload/2017Feb/jpg/20170205115751190_1.jpg",
+        "gmurl": "https://maps.google.com/?cid=5845917522594856578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.672089,
+          120.317502
+        ]
+      }
+    },
+    {
+      "id": 53,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.yuhobeef.com.tw/",
+        "address": "824台灣高雄市燕巢區大仁路68號",
+        "name": "裕賀牛觀光工廠",
+        "photo": "https://khh.travel/image/2014/1024x768",
+        "gmurl": "https://maps.google.com/?cid=13208821191340397614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.770239,
+          120.383005
+        ]
+      }
+    },
+    {
+      "id": 54,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.tarokopark.com.tw/",
+        "address": "806台灣高雄市前鎮區中安路1-1號",
+        "name": "大魯閣草衙道",
+        "photo": "http://www.tarokopark.com.tw/img/tarokopark-meta.png",
+        "gmurl": "https://maps.google.com/?cid=662846719228636529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.582586,
+          120.329325
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/iloveyouvilla/",
+        "address": "824台灣高雄市燕巢區過鞍巷131-1號",
+        "name": "沃野山丘",
+        "photo": "https://angelala.tw/wp-content/uploads/img/20190406093020_30.jpg",
+        "gmurl": "https://maps.google.com/?cid=4324302072938468139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.813926,
+          120.35576
+        ]
+      }
+    },
+    {
+      "id": 56,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.goatsfarm.com.tw/incubation/",
+        "address": "840台灣高雄市大樹區和山路198號",
+        "name": "華一休閒農場",
+        "photo": "https://i4.achangpro.com/img.bunnyann.com/uploads/20181203231014_25.jpg",
+        "gmurl": "https://maps.google.com/?cid=14881617993634396783"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.696211,
+          120.414933
+        ]
+      }
+    },
+    {
+      "id": 57,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/coffeeaustin",
+        "address": "812台灣高雄市小港區立群路100號",
+        "name": "奧斯汀人文咖啡",
+        "photo": "https://miemie.tw/wp-content/uploads/20190618012122_31.jpg",
+        "gmurl": "https://maps.google.com/?cid=13089253179432279886"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.56354,
+          120.355949
+        ]
+      }
+    },
+    {
+      "id": 58,
+      "type": "Feature",
+      "properties": {
+        "website": "http://pineapple-museum.khcc.gov.tw/",
+        "address": "840台灣高雄市大樹區復興街42號",
+        "name": "鳳梨罐頭觀光工廠",
+        "photo": "https://img.fullfenblog.tw/20200929224229_49.png",
+        "gmurl": "https://maps.google.com/?cid=18134768198844530927"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.657798,
+          120.420823
+        ]
+      }
+    },
+    {
+      "id": 59,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.starbucks.com.tw/",
+        "address": "804台灣高雄市鼓山區美術東二路9號",
+        "name": "美人魚星巴克",
+        "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/%E6%98%9F%E5%B7%B4%E5%85%8B-%E8%9C%9C%E6%A1%83-%E6%98%9F%E5%86%B0%E6%A8%82-%E8%9C%9C%E6%A1%83%E6%98%9F%E5%86%B0%E6%A8%82-%E7%BE%8E%E4%BA%BA%E9%AD%9A-1589524584.jpg?crop=0.500xw:1.00xh;0.240xw,0&resize=640:*",
+        "gmurl": "https://maps.google.com/?cid=16213026088014713848"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.651873,
+          120.287696
+        ]
+      }
+    },
+    {
+      "id": 60,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.aeeh.com.tw/tw/index.asp?au_id=9",
+        "address": "820台灣高雄市岡山區致遠路55號",
+        "name": "航空教育展示館",
+        "photo": "https://smile-eye.net/wp-content/uploads/2018/12/1544434794-5b9353670791a765bf649ef6a3a6e9c3.jpg",
+        "gmurl": "https://maps.google.com/?cid=4614122089667174825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.794152,
+          120.269073
+        ]
+      }
+    },
+    {
+      "id": 61,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "811台灣高雄市楠梓區援中路110號",
+        "name": "汗蒸幕",
+        "photo": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630,f_auto/w_80,x_15,y_15,g_south_west,l_klook_water/activities/gu2eyhvwdfbl1bqd0mam/%E9%BE%8D%E5%B1%B1%E6%B1%97%E8%92%B8%E5%B9%95%20Dragon%20Hill.jpg",
+        "gmurl": "https://maps.google.com/?cid=408147457906077233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7265,
+          120.296169
+        ]
+      }
+    },
+    {
+      "id": 62,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "717台灣台南市仁德區",
+        "name": "牛稠子車站",
+        "photo": "https://pic.pimg.tw/flower033880/1593155794-1199443894.png",
+        "gmurl": "https://maps.google.com/?cid=7377069132393601006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.956192,
+          120.228759
+        ]
+      }
+    },
+    {
+      "id": 63,
+      "type": "Feature",
+      "properties": {
+        "website": "https://propt.tw/",
+        "address": "900台灣屏東縣屏東市仁德路43巷5號",
+        "name": "職人町",
+        "photo": "https://i0.wp.com/i17fun.com/wp-content/uploads/20200308174039_32.jpg?resize=1080%2C567&ssl=1",
+        "gmurl": "https://maps.google.com/?cid=9493611917524200351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.672655,
+          120.494567
+        ]
+      }
+    },
+    {
+      "id": 64,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "802台灣高雄市苓雅區尚勇路6號",
+        "name": "衛武迷迷村",
+        "photo": "https://margaret.tw/wp-content/uploads/nEO_IMG_DSC09832-1.jpg",
+        "gmurl": "https://maps.google.com/?cid=13759082709675578702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.627153,
+          120.343931
+        ]
+      }
+    },
+    {
+      "id": 65,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "805台灣高雄市旗津區旗後山",
+        "name": "旗後砲台",
+        "photo": "http://pic.pimg.tw/niki423/1405421446-2869689806.jpg",
+        "gmurl": "https://maps.google.com/?cid=16241952380007608092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.613027,
+          120.264106
+        ]
+      }
+    },
+    {
+      "id": 66,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.nstm.gov.tw/",
+        "address": "807台灣高雄市三民區九如一路720號",
+        "name": "高雄科工館",
+        "photo": "https://museum.welcometw.com/wp-content/uploads/2020/03/20200308%E7%A7%91%E5%B7%A5%E9%A4%A8_0-0.jpg",
+        "gmurl": "https://maps.google.com/?cid=1884570514620806421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.641489,
+          120.322555
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.edathemepark.com.tw/Website/index.aspx",
+        "address": "840台灣高雄市大樹區學城路一段10號",
+        "name": "義大世界",
+        "photo": "https://www.colatour.com.tw/Cola_AppFiles/A03F_DomTour/DomItinerary/2929/DomImgs/Tour01.jpg",
+        "gmurl": "https://maps.google.com/?cid=16088708442249168864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.730788,
+          120.408986
+        ]
+      }
+    },
+    {
+      "id": 68,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.krtco.com.tw/train_info/service_1-O5R10.aspx",
+        "address": "b1, No. 115號中山一路新興區高雄市台灣 800",
+        "name": "美麗島光之穹頂",
+        "photo": "http://www.pse100i.idv.tw/s/0mltguz/0mltguz001.jpg",
+        "gmurl": "https://maps.google.com/?cid=5053331800542941857"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.631375,
+          120.301971
+        ]
+      }
+    },
+    {
+      "id": 69,
+      "type": "Feature",
+      "properties": {
+        "website": "https://khh.travel/Article.aspx?a=6883&l=1&stype=1057&sitem=4078",
+        "address": "805台灣高雄市旗津區旗津二路",
+        "name": "風車公園",
+        "photo": "https://khh.travel/image/20070/1024x768",
+        "gmurl": "https://maps.google.com/?cid=17177432772447132529"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.588313,
+          120.284338
+        ]
+      }
+    },
+    {
+      "id": 70,
+      "type": "Feature",
+      "properties": {
+        "website": "http://m.khh.travel/Article.aspx?a=6867",
+        "address": "805台灣高雄市旗津區",
+        "name": "踩風大道",
+        "photo": "https://pic.pimg.tw/hellomomo8/1486273285-188071593.jpg",
+        "gmurl": "https://maps.google.com/?cid=4797872398534101761"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.604213,
+          120.272567
+        ]
+      }
+    },
+    {
+      "id": 71,
+      "type": "Feature",
+      "properties": {
+        "website": "http://khh.travel/Article.aspx?a=6389&l=1&stype=1057&sitem=4078",
+        "address": "805台灣高雄市旗津區廟前路1巷",
+        "name": "星空隧道",
+        "photo": "https://cdn2.ettoday.net/images/4686/d4686539.jpg",
+        "gmurl": "https://maps.google.com/?cid=2439986599474031565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.612867,
+          120.264114
+        ]
+      }
+    },
+    {
+      "id": 72,
+      "type": "Feature",
+      "properties": {
+        "website": "https://conservation.forest.gov.tw/0000121",
+        "address": "824台灣高雄市燕巢區深水段183之8號",
+        "name": "烏山頂泥火山",
+        "photo": "https://photo.travelking.com.tw/scenery/49A0581D-F1CB-4F57-9434-399BFB31357F_e.jpg",
+        "gmurl": "https://maps.google.com/?cid=4190398853909828959"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.796027,
+          120.405968
+        ]
+      }
+    },
+    {
+      "id": 73,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "台灣高雄市阿公店水庫",
+        "name": "阿公店水庫",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/47/Agongdian_Reservoir04.jpg",
+        "gmurl": "https://maps.google.com/?q=%E9%98%BF%E5%85%AC%E5%BA%97%E6%B0%B4%E5%BA%AB&ftid=0x346e12881b4fb507:0xe5f98796ad6e4fae"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.81358,
+          120.350757
+        ]
+      }
+    },
+    {
+      "id": 74,
+      "type": "Feature",
+      "properties": {
+        "website": "https://mituo.kcg.gov.tw/cp.aspx?n=30B6E17607CE9266",
+        "address": "827台灣高雄市彌陀區南寮路96號",
+        "name": "彌陀漁港海岸光廊",
+        "photo": "https://orgws.kcg.gov.tw/Download.ashx?u=LzAwMS9LY2dPcmdVcGxvYWRGaWxlcy8yODUvY2tmaWxlL2U3YWY5Y2IwLTJmZjAtNDViMi1hYjQyLTkxMmUzMGVhN2NiYUAxMDI0eDc2OC5qcGc%3D&n=NS0xLTEtMDAyLkpQRw%3D%3D&Icon=.JPG",
+        "gmurl": "https://maps.google.com/?cid=606271524763722510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.76092,
+          120.234315
+        ]
+      }
+    },
+    {
+      "id": 75,
+      "type": "Feature",
+      "properties": {
+        "website": "https://mituo.kcg.gov.tw/cp.aspx?n=4FA80C03A5F771A1",
+        "address": "827台灣高雄市彌陀區漯底里山頂路",
+        "name": "漯底山自然公園",
+        "photo": "https://pic.pimg.tw/su327396/1545493915-2678210410.jpg",
+        "gmurl": "https://maps.google.com/?cid=3393548264171511189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.770962,
+          120.25311
+        ]
+      }
+    },
+    {
+      "id": 76,
+      "type": "Feature",
+      "properties": {
+        "website": "https://www.facebook.com/%E7%94%B2%E4%BB%99%E8%B2%93%E5%B7%B7-%E5%82%98%E5%82%98%E5%8B%95%E4%BA%BA-656336617803404/",
+        "address": "847台灣高雄市甲仙區林森路44號",
+        "name": "高雄貓巷",
+        "photo": "https://pic.pimg.tw/damon624/1454420542-1733023748.jpg",
+        "gmurl": "https://maps.google.com/?cid=1777324888133105617"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.083025,
+          120.589165
+        ]
+      }
+    },
+    {
+      "id": 77,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "846台灣高雄市杉林區181縣道",
+        "name": "杉林花海",
+        "photo": "https://pic.pimg.tw/car0126/1579854955-1195669042.jpg",
+        "gmurl": "https://maps.google.com/?cid=3007213652944595897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.957061,
+          120.530152
+        ]
+      }
+    },
+    {
+      "id": 78,
+      "type": "Feature",
+      "properties": {
+        "website": "null",
+        "address": "851台灣高雄市茂林區",
+        "name": "多納高吊橋",
+        "photo": "https://www.maolin-nsa.gov.tw/att/pic//11004088.jpg",
+        "gmurl": "https://maps.google.com/?cid=6094261000943592393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.908953,
+          120.714592
+        ]
+      }
+    },
+    {
+      "id": 79,
+      "type": "Feature",
+      "properties": {
+        "website": "http://www.pu-lao.com.tw/index.html",
+        "address": "844台灣高雄市六龜區新開路82號",
+        "name": "不老溫泉",
+        "photo": "http://www.pu-lao.com.tw/assets/img/services/1.jpg",
+        "gmurl": "https://maps.google.com/?cid=16766296353649460970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.066217,
+          120.683502
+        ]
+      }
+    }
+  ]
+}
